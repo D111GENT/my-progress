@@ -4,3 +4,5 @@
 ✔ Deployed my first [smart contract](https://github.com/D111GENT/my-progress/blob/main/SimpleStorage.sol)
 
 ✔ Set up hardhat and explore: [repo](https://github.com/D111GENT/exploring-hardhat)
+
+✔ Learned about the [JSON-RPC Spec](https://ethereum.github.io/execution-apis/api-documentation/)
