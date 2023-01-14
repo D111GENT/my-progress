@@ -3,4 +3,4 @@
 
 ✔ Deployed my first smart contract
 
-✔ Set up hardhat and explore
+✔ Set up hardhat and explore: [repo](https://github.com/D111GENT/exploring-hardhat)
