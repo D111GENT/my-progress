@@ -8,5 +8,3 @@
 ✔ Learned about the [JSON-RPC Spec](https://ethereum.github.io/execution-apis/api-documentation/)
 
 ✔ Set up an environment in [Remix](https://remix.ethereum.org/) to start bug testing [pillar contracts](https://github.com/pillarwallet/pillar-dao-contracts) as part of their [bug bounty program](https://immunefi.com/bounty/pillar/)
-
-✔ Set up environment to learn [Etherspot SDK](https://etherspot.io/) to create an [Etherspot Demo App](https://github.com/pillarwallet/pillarwallet/blob/develop/RECRUITMENT.md) and showcase my abilities
