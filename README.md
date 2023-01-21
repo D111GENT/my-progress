@@ -7,4 +7,4 @@
 
 ✔ Learned about the [JSON-RPC Spec](https://ethereum.github.io/execution-apis/api-documentation/)
 
-✔ Set up an environment in [Remix](https://remix.ethereum.org/) to start bug testing [pillar contracts](https://github.com/pillarwallet/pillar-dao-contracts) as part of their [bug bounty program](https://immunefi.com/bounty/pillar/)
+✔ Created [Dappazon](https://github.com/D111GENT/Dappazon)
