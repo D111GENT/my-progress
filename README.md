@@ -8,3 +8,5 @@
 ✔ Learned about the [JSON-RPC Spec](https://ethereum.github.io/execution-apis/api-documentation/)
 
 ✔ Created [Dappazon](https://github.com/D111GENT/Dappazon)
+
+✔ Created a boilerplate for future NextJS and Hardhat projects (private repo)
