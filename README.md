@@ -10,3 +10,5 @@
 ✔ Created [Dappazon](https://github.com/D111GENT/Dappazon)
 
 ✔ Created a boilerplate for future NextJS and Hardhat projects (private repo)
+
+✔ Wrote a medium article on [front-running](https://medium.com/@d111gent/front-running-a-real-life-example-a37d699d786d)
