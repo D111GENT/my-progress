@@ -11,4 +11,10 @@
 
 ✔ Created a boilerplate for future NextJS and Hardhat projects (private repo)
 
-✔ Wrote a medium article on [front-running](https://medium.com/@d111gent/front-running-a-real-life-example-a37d699d786d)
+✔ Wrote 20+ medium articles: [link](medium.com/@d111gent)
+
+# Current Focuses (in Cybersecurity)
+1. [TryHackMe](tryhackme.com) Learn / CTFs
+2. [Udemy](udemy.com) courses (certs available)
+3. [Content creation](youtube.com/d111genthacks)
+4. Medium articles
