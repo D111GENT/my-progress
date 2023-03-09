@@ -16,5 +16,5 @@
 # Current Focuses (in Cybersecurity)
 1. [TryHackMe](tryhackme.com) Learn / CTFs
 2. [Udemy](udemy.com) courses (certs available)
-3. [Content creation](youtube.com/d111genthacks)
-4. Medium articles
+3. [YouTube](youtube.com/d111genthacks)
+4. [Medium](medium.com/@d111gent) articles
