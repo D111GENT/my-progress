@@ -11,7 +11,7 @@
 
 ✔ Created a boilerplate for future NextJS and Hardhat projects (private repo)
 
-✔ Wrote 20+ medium articles: [link](medium.com/@d111gent)
+✔ Wrote 20+ [Medium articles](medium.com/@d111gent)
 
 # Current Focus
 1. [TryHackMe](tryhackme.com) Learn / CTFs
